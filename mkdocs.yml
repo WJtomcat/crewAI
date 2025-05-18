@@ -6,7 +6,7 @@ repo_url: https://github.com/crewAIInc/crewAI
 site_url: https://docs.crewai.com
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 crewAI, Inc
-
+ 
 markdown_extensions:
   - abbr
   - admonition
